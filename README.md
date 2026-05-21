@@ -39,5 +39,6 @@ This repo provides few [payloads](payloads/) for you to play around. PRs for use
 * specter & chendo - for webkit implementations which i refer a lot
 * al-azif - parts and information grabbed from his sdk, aswell as from his ftp server
 * horror - for the notification popup and ftp server payloads
+* ufm42 - for kexp
 * everyone else who shared their knowledge with the community
 
